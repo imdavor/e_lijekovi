@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E_lijekovi</string>
+    <string name="menu">Menu</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="module_1">Module 1</string>
+</resources>
+

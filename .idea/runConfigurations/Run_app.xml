@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRunConfigurationManager">
+    <configuration default="false" type="AndroidRunConfigurationType" factoryName="Android App" name="Run app" temporary="false">
+      <module name="app" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="INSTALL_OPTIONS" value="" />
+      <option name="PM_INSTALL_MODE" value="default" />
+      <option name="LAUNCH_ACTION" value="SpecifiedActivity" />
+      <option name="ACTIVITY_CLASS" value="com.example.e_lijekovi.MainActivity" />
+    </configuration>
+  </component>
+</project>
+
